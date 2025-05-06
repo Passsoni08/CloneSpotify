@@ -1,11 +1,20 @@
-Este projeto consiste em uma landing page inspirada no Spotify, desenvolvida com HTML, CSS e Bootstrap. A página apresenta seções informativas sobre a plataforma de streaming, recursos oferecidos e um design responsivo.
+🎧 CloneSpotify – Landing Page Inspirada no Spotify
+Este projeto é uma landing page inspirada na interface do Spotify, desenvolvida com foco em design responsivo e boas práticas de front-end. Ideal para fins educacionais e demonstração de habilidades em HTML, CSS e Bootstrap.
 
-Tecnologias usadas:
-HTML5: Estrutura do site
-CSS3: Estilização personalizada
-Bootstrap 4: Layout responsivo e componentes pré-estilizados
-Open Iconic: Conjunto de ícones
+📸 Captura de Tela
 
-Este projeto é apenas para fins educacionais e não possui afiliação com o Spotify.
+🚀 Tecnologias Utilizadas
+HTML5 – Estrutura semântica do site
 
+CSS3 – Estilização personalizada
 
+Bootstrap 4 – Layout responsivo e componentes pré-estilizados
+
+Open Iconic – Conjunto de ícones
+
+📱 Funcionalidades
+Design responsivo adaptado para diferentes dispositivos
+
+Seções informativas sobre a plataforma de streaming
+
+Layout moderno inspirado na estética do Spotify
